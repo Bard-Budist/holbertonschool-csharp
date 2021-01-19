@@ -1,0 +1,11 @@
+G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\bin\Debug\netcoreapp2.1\9-print_specifiers.deps.json
+G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\bin\Debug\netcoreapp2.1\9-print_specifiers.runtimeconfig.json
+G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\bin\Debug\netcoreapp2.1\9-print_specifiers.runtimeconfig.dev.json
+G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\bin\Debug\netcoreapp2.1\9-print_specifiers.dll
+G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\bin\Debug\netcoreapp2.1\9-print_specifiers.pdb
+G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\netcoreapp2.1\9-print_specifiers.csprojAssemblyReference.cache
+G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\netcoreapp2.1\9-print_specifiers.csproj.CoreCompileInputs.cache
+G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\netcoreapp2.1\9-print_specifiers.AssemblyInfoInputs.cache
+G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\netcoreapp2.1\9-print_specifiers.AssemblyInfo.cs
+G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\netcoreapp2.1\9-print_specifiers.dll
+G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\netcoreapp2.1\9-print_specifiers.pdb

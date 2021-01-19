@@ -1,0 +1,11 @@
+G:\Holberton\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp2.1\11-print_diagonal.csprojAssemblyReference.cache
+G:\Holberton\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp2.1\11-print_diagonal.csproj.CoreCompileInputs.cache
+G:\Holberton\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp2.1\11-print_diagonal.AssemblyInfoInputs.cache
+G:\Holberton\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp2.1\11-print_diagonal.AssemblyInfo.cs
+G:\Holberton\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\bin\Debug\netcoreapp2.1\11-print_diagonal.deps.json
+G:\Holberton\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\bin\Debug\netcoreapp2.1\11-print_diagonal.runtimeconfig.json
+G:\Holberton\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\bin\Debug\netcoreapp2.1\11-print_diagonal.runtimeconfig.dev.json
+G:\Holberton\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\bin\Debug\netcoreapp2.1\11-print_diagonal.dll
+G:\Holberton\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\bin\Debug\netcoreapp2.1\11-print_diagonal.pdb
+G:\Holberton\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp2.1\11-print_diagonal.dll
+G:\Holberton\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp2.1\11-print_diagonal.pdb

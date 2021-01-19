@@ -12,7 +12,7 @@ namespace _12_fizzbuzz
                 if (i < 100){
                     delimiter = " ";
                 } else {
-                    delimiter = "";
+                    delimiter = "\n";
                 }
                 if (i % 3 == 0 && i % 5 == 0)
                 {

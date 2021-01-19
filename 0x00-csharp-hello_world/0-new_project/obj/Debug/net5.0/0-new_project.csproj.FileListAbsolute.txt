@@ -1,0 +1,8 @@
+/mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/obj/Debug/net5.0/0-new_project.csprojAssemblyReference.cache
+/mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/obj/Debug/net5.0/0-new_project.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/obj/Debug/net5.0/0-new_project.AssemblyInfoInputs.cache
+/mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/obj/Debug/net5.0/0-new_project.AssemblyInfo.cs
+/mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/obj/Debug/net5.0/0-new_project.csproj.CoreCompileInputs.cache
+/mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/obj/Debug/net5.0/0-new_project.dll
+/mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/obj/Debug/net5.0/ref/0-new_project.dll
+/mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/obj/Debug/net5.0/0-new_project.pdb

@@ -8,8 +8,12 @@ class List
         {
             Console.WriteLine("Size cannot be negative");
             return null;
+        } else if (size == 0)
+        {
+            Console.WriteLine("");
         }
         string end = "";
+        
         System.Collections.Generic.List<int> integer = new System.Collections.Generic.List<int>();
         for (int i = 0; i < size; i++)
         {

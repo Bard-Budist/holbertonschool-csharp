@@ -1,0 +1,11 @@
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\netcoreapp2.1\4-print_list.csprojAssemblyReference.cache
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\netcoreapp2.1\4-print_list.csproj.CoreCompileInputs.cache
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\netcoreapp2.1\4-print_list.AssemblyInfoInputs.cache
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\netcoreapp2.1\4-print_list.AssemblyInfo.cs
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\bin\Debug\netcoreapp2.1\4-print_list.deps.json
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\bin\Debug\netcoreapp2.1\4-print_list.runtimeconfig.json
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\bin\Debug\netcoreapp2.1\4-print_list.runtimeconfig.dev.json
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\bin\Debug\netcoreapp2.1\4-print_list.dll
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\bin\Debug\netcoreapp2.1\4-print_list.pdb
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\netcoreapp2.1\4-print_list.dll
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\netcoreapp2.1\4-print_list.pdb

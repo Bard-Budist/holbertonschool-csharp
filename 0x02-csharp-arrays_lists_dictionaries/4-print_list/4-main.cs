@@ -17,6 +17,7 @@ class Program
         Console.WriteLine("List Length: " + newList.Count);
         Console.WriteLine("----------------");
         newList = List.CreatePrint(1);
-        Console.WriteLine("List Length: " + newList.Count);        
+        Console.WriteLine("List Length: " + newList.Count);
+        newList = List.CreatePrint(-1); 
     }
 }

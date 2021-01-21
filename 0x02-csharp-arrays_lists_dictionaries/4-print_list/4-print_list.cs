@@ -11,7 +11,7 @@ class List
         }
         string end = "";
         System.Collections.Generic.List<int> integer = new System.Collections.Generic.List<int>();
-        for (var i = 0; i < size; i++)
+        for (int i = 0; i < size; i++)
         {
             integer.Add(i);
             if (i < size - 1)

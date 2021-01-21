@@ -1,0 +1,11 @@
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\netcoreapp2.1\5-max_integer.deps.json
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\netcoreapp2.1\5-max_integer.runtimeconfig.json
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\netcoreapp2.1\5-max_integer.runtimeconfig.dev.json
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\netcoreapp2.1\5-max_integer.dll
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\netcoreapp2.1\5-max_integer.pdb
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\netcoreapp2.1\5-max_integer.csprojAssemblyReference.cache
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\netcoreapp2.1\5-max_integer.csproj.CoreCompileInputs.cache
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\netcoreapp2.1\5-max_integer.AssemblyInfoInputs.cache
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\netcoreapp2.1\5-max_integer.AssemblyInfo.cs
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\netcoreapp2.1\5-max_integer.dll
+G:\Holberton\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\netcoreapp2.1\5-max_integer.pdb

@@ -13,7 +13,7 @@ class Dictionary
         }
         foreach (var item in dictSorted)
         {
-            Console.WriteLine("{0}: {0}", item.Key, item.Value);
+            Console.WriteLine("{0}: {1}", item.Key, item.Value);
         }
     }
 }

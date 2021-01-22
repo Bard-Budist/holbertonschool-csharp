@@ -1,0 +1,11 @@
+G:\Holberton\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\netcoreapp2.1\5-print_linkedlist.deps.json
+G:\Holberton\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\netcoreapp2.1\5-print_linkedlist.runtimeconfig.json
+G:\Holberton\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\netcoreapp2.1\5-print_linkedlist.runtimeconfig.dev.json
+G:\Holberton\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\netcoreapp2.1\5-print_linkedlist.dll
+G:\Holberton\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\netcoreapp2.1\5-print_linkedlist.pdb
+G:\Holberton\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp2.1\5-print_linkedlist.csprojAssemblyReference.cache
+G:\Holberton\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp2.1\5-print_linkedlist.csproj.CoreCompileInputs.cache
+G:\Holberton\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp2.1\5-print_linkedlist.AssemblyInfoInputs.cache
+G:\Holberton\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp2.1\5-print_linkedlist.AssemblyInfo.cs
+G:\Holberton\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp2.1\5-print_linkedlist.dll
+G:\Holberton\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp2.1\5-print_linkedlist.pdb

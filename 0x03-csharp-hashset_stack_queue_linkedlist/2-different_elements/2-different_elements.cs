@@ -6,19 +6,21 @@ class List
     {
         System.Collections.Generic.List<int> listDifferents = new System.Collections.Generic.List<int>();
 
-        int position = 0;
+       
         foreach (int item in list1)
         {
             if (!list2.Contains(item))
             {
                 listDifferents.Add(item);
             }
-            
-            if (!list1.Contains(list2[position]))
+        }
+
+        foreach (int item in list2)
+        {
+            if (!list1.Contains(item))
             {
-                listDifferents.Add(list2[position]);
+                listDifferents.Add(item);
             }
-            position++;
         }
         listDifferents.Sort();
         return listDifferents;

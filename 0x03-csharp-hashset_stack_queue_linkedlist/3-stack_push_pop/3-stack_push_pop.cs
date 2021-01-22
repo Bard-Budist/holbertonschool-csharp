@@ -5,6 +5,7 @@ class MyStack
     {
         int sizeStack = aStack.Count;
         bool containSearch = false;
+        int indexSearch = 0;
 
         Console.WriteLine("Number of items: {0}", sizeStack);
 
@@ -21,23 +22,20 @@ class MyStack
             if (item == search)
             {
                 containSearch = true;
+                break;
             }
+            indexSearch++;
         }
 
         Console.WriteLine("Stack contains \"{0}\": {1}", search, containSearch? "True": "False");
 
         if (containSearch)
         {
-            for (var i = 0; i < sizeStack; i++)
+            for (var i = 0; i <= indexSearch; i++)
             {
-                if (aStack.Peek() != search)
-                {
-                    aStack.Pop();
-                } else
-                {
-                    aStack.Pop();
-                    break;
-                }
+                
+                aStack.Pop();
+                
                 
             }
         }

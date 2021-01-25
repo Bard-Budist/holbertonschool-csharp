@@ -15,16 +15,19 @@ class LList
                 previousNode = firstNode.Previous;
             }
             
-            if ((previousNode != null && previousNode.Value < n && firstNode.Value > n))
+            if ((previousNode != null && previousNode.Value <= n && firstNode.Value >= n))
             {
                 newNode = myLList.AddAfter(previousNode, n);
+                break;
                 
-            } else if (firstNode.Value > n && previousNode == null)
+            } else if (firstNode.Value >= n && previousNode == null)
             {
                 newNode = myLList.AddFirst(n);
-            } else if (firstNode.Next == null && firstNode.Value < n)
+                break;
+            } else if (firstNode.Next == null && firstNode.Value <= n)
             {
                 newNode = myLList.AddAfter(firstNode, n);
+                break;
             }
             firstNode = firstNode.Next;
         }

@@ -1,0 +1,11 @@
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\bin\Debug\netcoreapp2.1\0-safe_list_print.deps.json
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\bin\Debug\netcoreapp2.1\0-safe_list_print.runtimeconfig.json
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\bin\Debug\netcoreapp2.1\0-safe_list_print.runtimeconfig.dev.json
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\bin\Debug\netcoreapp2.1\0-safe_list_print.dll
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\bin\Debug\netcoreapp2.1\0-safe_list_print.pdb
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\netcoreapp2.1\0-safe_list_print.csprojAssemblyReference.cache
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\netcoreapp2.1\0-safe_list_print.csproj.CoreCompileInputs.cache
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\netcoreapp2.1\0-safe_list_print.AssemblyInfoInputs.cache
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\netcoreapp2.1\0-safe_list_print.AssemblyInfo.cs
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\netcoreapp2.1\0-safe_list_print.dll
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\netcoreapp2.1\0-safe_list_print.pdb

@@ -1,0 +1,11 @@
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\bin\Debug\netcoreapp2.1\4-throw_exception_msg.deps.json
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\bin\Debug\netcoreapp2.1\4-throw_exception_msg.runtimeconfig.json
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\bin\Debug\netcoreapp2.1\4-throw_exception_msg.runtimeconfig.dev.json
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\bin\Debug\netcoreapp2.1\4-throw_exception_msg.dll
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\bin\Debug\netcoreapp2.1\4-throw_exception_msg.pdb
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp2.1\4-throw_exception_msg.csprojAssemblyReference.cache
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp2.1\4-throw_exception_msg.csproj.CoreCompileInputs.cache
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp2.1\4-throw_exception_msg.AssemblyInfoInputs.cache
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp2.1\4-throw_exception_msg.AssemblyInfo.cs
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp2.1\4-throw_exception_msg.dll
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp2.1\4-throw_exception_msg.pdb

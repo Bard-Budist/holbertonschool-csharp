@@ -1,0 +1,11 @@
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\obj\Debug\netcoreapp2.1\2-divide_lists.csprojAssemblyReference.cache
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\obj\Debug\netcoreapp2.1\2-divide_lists.csproj.CoreCompileInputs.cache
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\obj\Debug\netcoreapp2.1\2-divide_lists.AssemblyInfoInputs.cache
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\obj\Debug\netcoreapp2.1\2-divide_lists.AssemblyInfo.cs
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\bin\Debug\netcoreapp2.1\2-divide_lists.deps.json
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\bin\Debug\netcoreapp2.1\2-divide_lists.runtimeconfig.json
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\bin\Debug\netcoreapp2.1\2-divide_lists.runtimeconfig.dev.json
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\bin\Debug\netcoreapp2.1\2-divide_lists.dll
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\bin\Debug\netcoreapp2.1\2-divide_lists.pdb
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\obj\Debug\netcoreapp2.1\2-divide_lists.dll
+G:\Holberton\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\obj\Debug\netcoreapp2.1\2-divide_lists.pdb

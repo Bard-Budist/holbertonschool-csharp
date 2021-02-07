@@ -20,7 +20,7 @@ class List
         {
             return count;
         }
-        return count;
+        return i;
     }
 }
 

@@ -1,32 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Holberton\\holbertonschool-csharp\\0x00-csharp-hello_world\\0-new_project\\0-new_project.csproj": {}
+    "/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/0-new_project.csproj": {}
   },
   "projects": {
-    "G:\\Holberton\\holbertonschool-csharp\\0x00-csharp-hello_world\\0-new_project\\0-new_project.csproj": {
+    "/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/0-new_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Holberton\\holbertonschool-csharp\\0x00-csharp-hello_world\\0-new_project\\0-new_project.csproj",
+        "projectUniqueName": "/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/0-new_project.csproj",
         "projectName": "0-new_project",
-        "projectPath": "G:\\Holberton\\holbertonschool-csharp\\0x00-csharp-hello_world\\0-new_project\\0-new_project.csproj",
-        "packagesPath": "C:\\Users\\Bardito\\.nuget\\packages\\",
-        "outputPath": "G:\\Holberton\\holbertonschool-csharp\\0x00-csharp-hello_world\\0-new_project\\obj\\",
+        "projectPath": "/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/0-new_project.csproj",
+        "packagesPath": "/home/bardo/.nuget/packages/",
+        "outputPath": "/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Bardito\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/bardo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,19 +38,24 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

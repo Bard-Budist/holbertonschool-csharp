@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/home/bardo/.dotnet/store/|arch|/|tfm|",
-      "/home/bardo/.nuget/packages"
-    ]
-  }
-}

@@ -688,17 +688,21 @@
     ]
   },
   "packageFolders": {
-    "/home/bardo/.nuget/packages/": {}
+    "/home/bardo/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/100-hello_error.csproj",
+      "projectUniqueName": "/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/100-hello_error.csproj",
       "projectName": "100-hello_error",
-      "projectPath": "/mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/100-hello_error.csproj",
+      "projectPath": "/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/100-hello_error.csproj",
       "packagesPath": "/home/bardo/.nuget/packages/",
-      "outputPath": "/mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/",
+      "outputPath": "/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/home/bardo/.nuget/NuGet/NuGet.Config"
       ],

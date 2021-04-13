@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MwJKatBBDnNeNy3I9C2Uih21Fv+MeumKTvo4nyC230NH99P8O5T/CW6a+HL6Msfo/CXxFEheeo64s/dE+nzzgw==",
+  "dgSpecHash": "15tdZXXmyFOTGQRHaq1RMP460Ty4MR7FI8gpkXgpxruc+JqiXTloQXYmmobj+mLbQmwnrdD50ZLFCTEzTTaqsA==",
   "success": true,
-  "projectFilePath": "/mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/100-hello_error.csproj",
+  "projectFilePath": "/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/100-hello_error.csproj",
   "expectedPackageFiles": [
     "/home/bardo/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
     "/home/bardo/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

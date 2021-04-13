@@ -21,3 +21,15 @@ G:/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/
 /mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.dll
 /mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.pdb
 /mnt/g/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.genruntimeconfig.cache
+/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.deps.json
+/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.runtimeconfig.json
+/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.runtimeconfig.dev.json
+/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.dll
+/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.pdb
+/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.csprojAssemblyReference.cache
+/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.AssemblyInfoInputs.cache
+/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.AssemblyInfo.cs
+/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.csproj.CoreCompileInputs.cache
+/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.dll
+/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.pdb
+/home/bardo/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.genruntimeconfig.cache

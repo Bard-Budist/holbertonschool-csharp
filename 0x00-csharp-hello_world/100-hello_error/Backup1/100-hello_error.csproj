@@ -4,7 +4,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <RootNamespace>_100_hello_error</RootNamespace>
     <FileUpgradeFlags>40</FileUpgradeFlags>
-    <UpgradeBackupLocation>G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\Backup1\</UpgradeBackupLocation>
-    <OldToolsVersion>Current</OldToolsVersion>
+    <UpgradeBackupLocation>G:\Holberton\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\Backup\</UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
   </PropertyGroup>
 </Project>

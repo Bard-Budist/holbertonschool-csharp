@@ -5,19 +5,31 @@ namespace MyMath.Tests
 {
     
     [TestFixture]
-    public class Tests
+    public class OperationsTests
     {
-
-        [SetUp]
-        public void Setup()
-        { 
-        }
-
         [Test]
-        public void Test()
+        public void Add_Two_Positive()
         {
-            var result = MyMath.Operations.Add(1, 2);
-            Assert.AreEqual(result, 3);
+            int a = 90;
+            int b = 8;
+            int c = MyMath.Operations.Add(a, b);
+            Assert.AreEqual(a + b, c);
+        }
+        [Test]
+        public void Add_Positive_Negative()
+        {
+            int a = -2;
+            int b = 100;
+            int c = MyMath.Operations.Add(a, b);
+            Assert.AreEqual(a + b, c);
+        }
+        [Test]
+        public void Add_Two_Negative()
+        {
+            int a = -8;
+            int b = -90;
+            int c = MyMath.Operations.Add(a, b);
+            Assert.AreEqual(a + b, c);
         }
     }
 }

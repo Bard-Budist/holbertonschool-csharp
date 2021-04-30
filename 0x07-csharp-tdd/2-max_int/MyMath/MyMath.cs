@@ -1,10 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace MyMath
 {
     public class Operations
     {
-        public static int Max(System.Collections.Generic.List<int> nums)
+        public static int Max(List<int> nums)
         {
             int max = 0;
             if (nums.Count != 0)

@@ -16,7 +16,7 @@ namespace MyMath.Tests
         [Test]
         public void Test2()
         {
-            List<int> numbers = new List<int>() {};
+            List<int> numbers = new List<int>();
             int max = Operations.Max(numbers);
             Assert.AreEqual(max, 0);
         }

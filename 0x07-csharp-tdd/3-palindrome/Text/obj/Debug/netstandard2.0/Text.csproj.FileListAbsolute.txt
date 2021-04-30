@@ -1,0 +1,10 @@
+E:\Holberton\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.csprojAssemblyReference.cache
+E:\Holberton\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.csproj.CoreCompileInputs.cache
+E:\Holberton\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.AssemblyInfoInputs.cache
+E:\Holberton\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.AssemblyInfo.cs
+E:\Holberton\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\bin\Debug\netstandard2.0\Text.xml
+E:\Holberton\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\bin\Debug\netstandard2.0\Text.deps.json
+E:\Holberton\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\bin\Debug\netstandard2.0\Text.dll
+E:\Holberton\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\bin\Debug\netstandard2.0\Text.pdb
+E:\Holberton\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.dll
+E:\Holberton\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.pdb

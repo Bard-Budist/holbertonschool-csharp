@@ -10,7 +10,7 @@ namespace MyMath.Tests
         {
             List<int> numbers = new List<int>() {1, 2, 3, 4, 5, 6, 7, 9};
             int max = Operations.Max(numbers);
-            Assert.That(output, Is.EqualTo(9));
+            Assert.That(max, Is.EqualTo(9));
         }
 
         [Test]

@@ -1,0 +1,12 @@
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.csprojAssemblyReference.cache
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.csproj.CoreCompileInputs.cache
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.AssemblyInfoInputs.cache
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.AssemblyInfo.cs
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.deps.json
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.runtimeconfig.json
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.runtimeconfig.dev.json
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.dll
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.pdb
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.dll
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.pdb
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.xml

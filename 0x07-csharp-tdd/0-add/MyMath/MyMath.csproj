@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>_0_add</RootNamespace>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
+    <UpgradeBackupLocation>E:\Holberton\holbertonschool-csharp\0x07-csharp-tdd\0-add\Backup\MyMath\</UpgradeBackupLocation>
+    <OldToolsVersion>Current</OldToolsVersion>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,11 @@
+E:\Holberton\holbertonschool-csharp\0x05-csharp-structs_enums\1-dog\obj\Debug\netcoreapp2.1\1-dog.csprojAssemblyReference.cache
+E:\Holberton\holbertonschool-csharp\0x05-csharp-structs_enums\1-dog\obj\Debug\netcoreapp2.1\1-dog.csproj.CoreCompileInputs.cache
+E:\Holberton\holbertonschool-csharp\0x05-csharp-structs_enums\1-dog\obj\Debug\netcoreapp2.1\1-dog.AssemblyInfoInputs.cache
+E:\Holberton\holbertonschool-csharp\0x05-csharp-structs_enums\1-dog\obj\Debug\netcoreapp2.1\1-dog.AssemblyInfo.cs
+E:\Holberton\holbertonschool-csharp\0x05-csharp-structs_enums\1-dog\bin\Debug\netcoreapp2.1\1-dog.deps.json
+E:\Holberton\holbertonschool-csharp\0x05-csharp-structs_enums\1-dog\bin\Debug\netcoreapp2.1\1-dog.runtimeconfig.json
+E:\Holberton\holbertonschool-csharp\0x05-csharp-structs_enums\1-dog\bin\Debug\netcoreapp2.1\1-dog.runtimeconfig.dev.json
+E:\Holberton\holbertonschool-csharp\0x05-csharp-structs_enums\1-dog\bin\Debug\netcoreapp2.1\1-dog.dll
+E:\Holberton\holbertonschool-csharp\0x05-csharp-structs_enums\1-dog\bin\Debug\netcoreapp2.1\1-dog.pdb
+E:\Holberton\holbertonschool-csharp\0x05-csharp-structs_enums\1-dog\obj\Debug\netcoreapp2.1\1-dog.dll
+E:\Holberton\holbertonschool-csharp\0x05-csharp-structs_enums\1-dog\obj\Debug\netcoreapp2.1\1-dog.pdb

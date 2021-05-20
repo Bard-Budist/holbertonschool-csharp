@@ -1,0 +1,12 @@
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/7-shape/obj/Debug/netcoreapp2.1/7-shape.csprojAssemblyReference.cache
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/7-shape/obj/Debug/netcoreapp2.1/7-shape.csproj.CoreCompileInputs.cache
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/7-shape/obj/Debug/netcoreapp2.1/7-shape.AssemblyInfoInputs.cache
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/7-shape/obj/Debug/netcoreapp2.1/7-shape.AssemblyInfo.cs
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/7-shape/bin/Debug/netcoreapp2.1/7-shape.xml
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/7-shape/bin/Debug/netcoreapp2.1/7-shape.deps.json
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/7-shape/bin/Debug/netcoreapp2.1/7-shape.runtimeconfig.json
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/7-shape/bin/Debug/netcoreapp2.1/7-shape.runtimeconfig.dev.json
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/7-shape/bin/Debug/netcoreapp2.1/7-shape.dll
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/7-shape/bin/Debug/netcoreapp2.1/7-shape.pdb
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/7-shape/obj/Debug/netcoreapp2.1/7-shape.dll
+/home/bardo/holbertonschool-csharp/0x08-csharp-inheritance/7-shape/obj/Debug/netcoreapp2.1/7-shape.pdb

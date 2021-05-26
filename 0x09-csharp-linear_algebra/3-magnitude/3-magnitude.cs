@@ -14,7 +14,7 @@ class VectorMath
             total = total + Math.Pow(value, 2);
         }
 
-        return Math.Round(Math.Sqrt(total));
+        return Math.Round(Math.Sqrt(total), 2);
     }
 }
 

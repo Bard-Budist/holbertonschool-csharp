@@ -4,7 +4,7 @@ class MatrixMath
 {
     public static double[,] Add(double[,] matrix1, double[,] matrix2)
     {
-        if (matrix1.GetLength(0) < 2 || matrix2.GetLength(0) > 3)
+        if ((matrix1.GetLength(0) < 2 || matrix1.GetLength(0) > 3) || (matrix2.GetLength(0) < 2 || matrix2.GetLength(0) > 3) || (matrix1.GetLength(0) != matrix2.GetLength(0)))
         {
             return new double[,] { { -1 } };
         }
